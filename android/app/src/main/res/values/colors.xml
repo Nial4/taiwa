@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- KIDŌ launcher palette (see Eva.java for the same values in code) -->
+<resources>
+    <color name="eva_amber">#FFD07000</color>
+    <color name="eva_amber_hi">#FFFFA62B</color>
+    <color name="eva_gold">#FFC99930</color>
+    <color name="eva_gold_dim">#FF84692A</color>
+    <color name="eva_cream">#FFE9DEC9</color>
+    <color name="eva_cream_dim">#FFB9AC95</color>
+    <color name="eva_red">#FFD8323A</color>
+</resources>

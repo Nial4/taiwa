@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="panel_width">420dp</dimen>
+    <dimen name="panel_margin">20dp</dimen>
+    <dimen name="panel_radius">28dp</dimen>
+    <dimen name="body_text">16sp</dimen>
+</resources>

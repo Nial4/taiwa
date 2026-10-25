@@ -1,0 +1,31 @@
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/*.iml
+android/app/*.iml
+android/captures/
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+relay/dist/
+relay/build/
+
+# Secrets and local state: never commit these
+credentials.json
+settings.json
+host_id
+*.bin
+
+# OS
+.DS_Store
+Thumbs.db
